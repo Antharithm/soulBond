@@ -1,2 +1,2 @@
 # soulBond
-web3 dating app
+Tinder clone app
